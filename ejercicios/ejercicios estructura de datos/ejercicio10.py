@@ -19,3 +19,5 @@ precio = float(input("ingrese el valor "))
 productos[nombre] = precio #agregaria un nuevo producto al diccionario ya creado
 
 print("productos:", productos) #muestra la el diccionario actualizado
+
+
