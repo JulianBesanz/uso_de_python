@@ -11,4 +11,17 @@ residuo con el símbolo de módulo % y entregue la
 comprobación con los valores resultantes de dividir 
 dos números entregados por el usuario del 
 programa.
+
+
 '''
+
+
+
+dividendo = int(input("ingrese el dividendo"))
+divisor = int(input("ingrese el divisor"))
+
+cociente = dividendo // divisor
+residuo = dividendo % divisor
+
+
+print(f"{divisor} * {cociente} + {residuo} = {dividendo}")
