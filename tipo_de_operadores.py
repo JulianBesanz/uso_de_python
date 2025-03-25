@@ -78,6 +78,7 @@ saldo_b=200
 saldo_b-=8
 print(saldo_b)
 
+#se piden datos
 '''
 operadores logicos
 and: comprueba si todas las condiciones se cumplen, true, false de lo contrario
