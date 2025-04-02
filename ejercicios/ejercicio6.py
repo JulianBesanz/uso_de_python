@@ -16,3 +16,10 @@ for i  in range(5):  #se repetira 4 veces
     lista.append(numeros) # los agregara a lista
 
 print("lista de numeros ingresados,:", lista) # resultado de la lista final
+
+lista.reverse()
+print(lista)
+print(sum(lista))
+
+lista.sort(reverse=True) #reverse_True descendente
+print(lista)

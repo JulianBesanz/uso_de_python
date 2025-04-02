@@ -118,6 +118,25 @@ print(tupla_1)
 print(tupla_1.index('b'))
 
 
+'''
+uso de listas []
+'''
+
+mi_lista = [9,5,8,15,True]
+print(mi_lista)
+print(len(mi_lista)) #Funcion python de len
+(mi_lista.append(False)) #Aplicando un metodo a la slita 
+print(mi_lista)
+print(sum(mi_lista))#funcion de python sum
+
+
+'''
+uso de diccionarios
+{clave:valor,clave:valor}
+'''
+
+estudiantes={"carlos": {"edad":10, "ciudad": "medellin"},"maria":10,"sofia":10,"devora":10,"eula":10,}
+
 
 
 

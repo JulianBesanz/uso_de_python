@@ -22,3 +22,10 @@ interseccion = conjunto1 & conjunto2
 
 print("la union es", union)
 print("la interseccion es", interseccion)
+
+
+
+# entrada1 = "8 9" # input
+# print(map(int, entrada1)) # 8 #9
+# print(map(int,entrada1.split()))
+# print(set(map(int,entrada1.split())))
